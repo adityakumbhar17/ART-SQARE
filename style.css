@@ -1,0 +1,95 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#top_nav{
+
+}
+#navbarSupportedContent{
+    padding-left: 10px;
+    font-weight: 400;
+}
+#navitems{
+    font-weight: 400;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0, 0, 0, .9);
+    font-weight: 600;
+    font-size: 22px;
+}
+#banner{
+   
+    padding-bottom: 20px;
+}
+#banner-text{
+    padding-top: 218px;
+    margin-left: 91px;
+
+}
+#banner-text h1{
+    font-weight: 800;
+    font-size: 73px;
+}
+#banner-text p{
+    font-size: medium;
+}
+.col-md-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+    padding-top: 30px;
+
+}
+#artworks{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#artworks h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.col-md{
+    margin-top: 58px;
+}
+#collabration{
+    background-color: lightgray;
+    margin-top: 10px;
+    text-align: center;
+    padding: 5px;
+}
+#first-para{
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    padding-top: 25px;
+
+}
+#second-para{
+    text-align: center;
+    color: brown;
+    font-weight: 800;
+    font-size: 39px;
+    padding-bottom: 31px;
+}
+a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: gray;
+}
+#forms{
+    text-align: center;
+    margin-top: 10px;
+}
+#inform{
+    margin-left: 10px;
+}
+#col-md-6{
+    text-align: center;
+}
+
+#socialmedia{
+    background-color: rgb(169, 169, 169);
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+    
